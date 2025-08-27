@@ -1,0 +1,3 @@
+# Works fine even with .txt extension
+max.Connections=100
+enable.Logging=true
