@@ -1,6 +1,5 @@
 package DesignPatterns.Singleton.Logger;
 
-import Inheritance.P;
 import org.apache.http.client.utils.DateUtils;
 import org.springframework.boot.logging.LogLevel;
 

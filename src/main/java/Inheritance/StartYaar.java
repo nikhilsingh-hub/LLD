@@ -10,9 +10,7 @@ public class StartYaar {
         return new B();
     }
     public static void main(String[] args) {
-        StartYaar startYaar = new StartYaar();
-        System.out.println(startYaar.hashCode());
-        System.out.println(startYaar.hashCode());
-
+        A a  = new B();
+        // if(a instanceof B) a.iq;  // Commented out incomplete statement
     }
 }
